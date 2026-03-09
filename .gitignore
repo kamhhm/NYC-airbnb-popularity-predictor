@@ -1,0 +1,6 @@
+*.DS_Store
+*.csv
+.ipynb_checkpoints/
+*.zip
+.OTTER_LOG
+__pycache__/
